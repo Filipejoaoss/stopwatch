@@ -2,7 +2,7 @@
 
 Small front-end project to simulate a stopwatch.
 
-The Framework used for this project was React.
+The technology used for this project was React.
 
 ## Setup and Configuration
 
